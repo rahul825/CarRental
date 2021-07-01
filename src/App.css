@@ -1,0 +1,26 @@
+.drop {
+    margin: 30px;
+}
+
+.contact {
+    margin: 100px;
+}
+
+.d-block w-100 {
+    width: 600px;
+    height: 400px;
+}
+
+.data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+Button {
+    justify-content: space-around;
+}
+
+.foot {
+    margin-top: 20px;
+}
